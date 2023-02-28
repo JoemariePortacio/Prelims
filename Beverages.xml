@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beverages>
+    <milk>
+        <whole_milk>
+            <brand name = "NESTLE" >
+                <product name = "NESTLE Fresh Milk">
+                    <description>comes directly from free roaming cows in the lush pastures of New Zealand and is free of preservatives, additives or stabilizers.</description>
+                    <main_ingredients>
+                        <ingredients>made from 100% Fresh Cow's Milk.</ingredients>
+                    </main_ingredients>
+                    <price>50 pesos</price>
+                </product>
+            </brand>
+        </whole_milk>
+    </milk>
+
+    <juice>
+        <whole_juice>
+            <brand name = "REAL">
+                <product name = "Real Fruit Power">
+                    <description>Made from best quality fruits, Réal Fruit Power has NO added Preservatives, hence offers not just great taste, but also FRUIT POWER</description>
+                    <main_ingredients>
+                        <ingredients>Water, Mixed Fruit Concentrate, Pineapple Juice concentrate, Orange Juice concentrate, Mango puree concentrate, Banana puree, Apple juice concentrate, Guava puree concentrate, Passion Fruit, Apricot and Lime, Sugar, Apple juice concentrate, Citric Acid and Ascorbic Acid.</ingredients>
+                    </main_ingredients>
+                    <price>98.12 pesos</price>
+                </product>
+            </brand>
+        </whole_juice>
+    </juice>
+    
+    <wine>
+        <whole_wine>
+            <brand name = "DEAKIN">
+                <product name = "Deakin estate moscato 2021">
+                    <description>Light, fruity, fresh with sweet tropical fruit and green apple flavors with lime touches.</description>
+                    <main_ingredients>
+                        <ingredients>Estate grown Muscat Gordo Blanco grapes were picked to obtain optimum sugar and flavour levels. Half the blend was fermented dry then blended back in, resulting in a fruity, low alcohol, light bodied wine.</ingredients>
+                    </main_ingredients>
+                    <price>575 pesos</price>
+                </product>
+            </brand>
+        </whole_wine>
+    </wine>
+
+    <beer>
+        <whole_beer>
+            <brand name = "San Miguel Brewery">
+                <product name = "Red Horse Beer">
+                    <description>A strong, high alcohol beer. It is deeply hued lager with a distinctive, sweetish taste, balanced by a smooth bitterness.</description>
+                    <main_ingredients>
+                        <ingredients>Water, Malt, Cereals, Sugar, Starch, Hops.</ingredients>
+                    </main_ingredients>
+                    <price>53 pesos</price>
+                </product>
+            </brand>
+        </whole_beer>
+    </beer>
+
+    <softdirnks>
+        <whole_softdrinks>
+            <brand name = "Coca Cola Company">
+                <product name = "Coke">
+                    <description>Cola is a carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings.</description>
+                    <main_ingredients>
+                        <ingredients>CARBONATED WATER, HIGH FRUCTOSE CORN SYRUP, CARAMEL COLOR, PHOSPHORIC ACID, NATURAL FLAVORS, CAFFEINE.</ingredients>
+                    </main_ingredients>
+                    <price>11 pesos</price>
+                </product>
+            </brand>
+        </whole_softdrinks>
+    </softdirnks>
+
+</beverages>
